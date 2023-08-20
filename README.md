@@ -1,3 +1,10 @@
+
+![Screenshot 2023-01-31 224146](https://github.com/shahzaibshafiq100/Tesla-Landing-Page/assets/73356944/23ab177a-faee-44f6-bb09-6da7bb8e6d07)
+
+
+![Screenshot 2023-01-31 224210](https://github.com/shahzaibshafiq100/Tesla-Landing-Page/assets/73356944/8e171d4e-d335-403d-9334-3691289da860)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
